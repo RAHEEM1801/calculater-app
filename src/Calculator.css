@@ -1,0 +1,52 @@
+
+body{
+    background-color: aqua;
+}
+#background{
+color: blue;
+height: 400px;
+width: 300px;
+border-radius: 10px;
+margin-left: 500px;
+margin-top: 200px;
+}
+.display{
+    margin-top: 20px;
+    margin-left: 40px;
+  
+}
+.btns{
+    display: inline-block;
+    margin: 6px;
+}
+.number{
+    display: inline-block;
+    margin: 20px;
+  
+}
+
+
+/* @media screen and (min-width: 480px) {
+  
+    #background{
+    color: blue;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+   
+    }
+    .display{
+        margin-top: 20px;
+        margin-left: 40px;
+      
+    }
+    .btns{
+        display: inline-block;
+        margin: 6px;
+    }
+    .number{
+        display: inline-block;
+        margin: 20px;
+      
+    }  
+  } */
